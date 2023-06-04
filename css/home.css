@@ -1,4 +1,9 @@
 body {
-  background-color: cyan;
+  background: lightblue;
   background-attachment: fixed;
+}
+
+h1 {
+  color: #FFE7CE;
+  text-shadow: 1px 1px #000000;
 }
